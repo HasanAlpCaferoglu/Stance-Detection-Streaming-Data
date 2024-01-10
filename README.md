@@ -2,9 +2,9 @@
 
 
 ### Authors:
-Hasan Alp Caferoğlu
-Ann Neşe Rende
-Ekrem Polat
+- Hasan Alp Caferoğlu
+- Ann Neşe Rende
+- Ekrem Polat
 
 ## Contents
 
