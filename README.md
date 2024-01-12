@@ -6,6 +6,9 @@
 - Ann Neşe Rende
 - Ekrem Polat
 
+For a detailed explanation of the Stance Detection project, please visit my [personal blog](https://www.alpcaferoglu.com/posts/stance-detection-project).
+
+
 ## Contents
 
 In this part, the contents of the files are going to be explained briefly
