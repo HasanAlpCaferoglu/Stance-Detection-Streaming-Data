@@ -1,6 +1,5 @@
 # STANCE DETECTION (ONLINE: STREAMING DATA)
 
-
 ### Authors:
 - Hasan Alp Caferoğlu
 - Ann Neşe Rende
